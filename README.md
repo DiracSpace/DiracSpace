@@ -13,3 +13,12 @@ I'm a fullstack developer currently working with .NET and Angular applications w
 * Angular
 * CSS/SCSS
 * Typescript/Javascript
+* .NET/C#
+* JWT (JSON Web Tokens)
+
+## Contact me?
+
+* [Outlook](mailto:json.roberto.deleon@outlook.com)
+* [Gmail](mailto:json.roberto.deleon@gmail.com)
+* [Spotify](https://open.spotify.com/user/mxjrdmmx?si=5c96ebdf386a4746)
+* [Discord](0x41414141#1258)
