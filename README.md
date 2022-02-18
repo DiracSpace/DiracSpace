@@ -22,6 +22,7 @@ I'm a fullstack developer currently working with .NET and Angular applications w
 
 ## Contact me?
 
+* [LinkedIn](https://www.linkedin.com/in/jayson-roberto-de-le%C3%B3n-mart%C3%ADnez-4aab1117a)
 * [Outlook](mailto:json.roberto.deleon@outlook.com)
 * [Gmail](mailto:json.roberto.deleon@gmail.com)
 * [Spotify](https://open.spotify.com/user/mxjrdmmx?si=5c96ebdf386a4746)
