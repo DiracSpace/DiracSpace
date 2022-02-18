@@ -16,6 +16,10 @@ I'm a fullstack developer currently working with .NET and Angular applications w
 * .NET/C#
 * JWT (JSON Web Tokens)
 
+### Cloud Interfaces
+* AWS
+* Azure
+
 ## Contact me?
 
 * [Outlook](mailto:json.roberto.deleon@outlook.com)
