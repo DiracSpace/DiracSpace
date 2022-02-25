@@ -27,3 +27,5 @@ I'm a fullstack developer currently working with .NET and Angular applications w
 * [Gmail](mailto:json.roberto.deleon@gmail.com)
 * [Spotify](https://open.spotify.com/user/mxjrdmmx?si=5c96ebdf386a4746)
 * [Discord](0x41414141#1258)
+* [Spanish CV](https://github.com/DiracSpace/DiracSpace/blob/main/Docs/CV%20-%20Espa%C3%B1ol.pdf)
+* [English CV](https://github.com/DiracSpace/DiracSpace/blob/main/Docs/CV%20-%20Ingl%C3%A9s.pdf)
