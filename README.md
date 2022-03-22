@@ -29,3 +29,33 @@ I'm a fullstack developer currently working with .NET and Angular applications w
 * [Discord](0x41414141#1258)
 * [Spanish CV](https://github.com/DiracSpace/DiracSpace/blob/main/Docs/CV%20-%20Espa%C3%B1ol.pdf)
 * [English CV](https://github.com/DiracSpace/DiracSpace/blob/main/Docs/CV%20-%20Ingl%C3%A9s.pdf)
+
+
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
