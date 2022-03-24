@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="">
-        <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu+mono&size=22&color=186E05&center=true&vCenter=true&lines=FullStack+Developer;Linux+enthusiast;Star+Wars+fanatic)](https://git.io/typing-svg)" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=ubuntu+mono&size=22&color=186E05&center=true&vCenter=true&lines=FullStack+Developer;Linux+enthusiast;Star+Wars+fanatic" />
     </a>
 </p>
 
