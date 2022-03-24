@@ -2,6 +2,12 @@
     Hi there, I'm Roberto De León 👋
 </p>
 
+<p align="center">
+    <a href="">
+        <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu+mono&size=22&color=186E05&center=true&vCenter=true&lines=FullStack+Developer;Linux+enthusiast;Star+Wars+fanatic)](https://git.io/typing-svg)" />
+    </a>
+</p>
+
 I'm a fullstack developer currently working with .NET and Angular applications with [Asterias Software Solutions](https://github.com/Asterias-Software-Solutrions). We create web solutions to better manage your problems.
 
 ### Everyday use
