@@ -8,7 +8,7 @@
     </a>
 </p>
 
-I'm a fullstack developer currently working with .NET and Angular applications with [Asterias Software Solutions](https://github.com/Asterias-Software-Solutrions). We create web solutions to better manage your problems.
+I'm a fullstack developer currently working with .NET and Angular applications with [Asterias Software Solutions](https://github.com/Asterias-Software-Solutrions). While currently using Windows as my main operating system, I also like to use Arch-based Linux distributions when I'm not in the need of Visual Studio. Main hobby is trying to learn new things, like solving coding problems at [Codewars](https://www.codewars.com/) with new languages while I read the documentation.
 
 ### Everyday use
 
@@ -23,8 +23,8 @@ I'm a fullstack developer currently working with .NET and Angular applications w
 * JWT (JSON Web Tokens)
 
 ### Cloud Interfaces
-* AWS
-* Azure
+* AWS (EC2 and RDS)
+* Azure (basic knowledge)
 
 ## Contact me?
 
